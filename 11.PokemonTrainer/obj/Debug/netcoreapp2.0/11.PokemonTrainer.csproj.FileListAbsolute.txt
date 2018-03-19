@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\09.RectangleInterseption\bin\Debug\netcoreapp2.0\09.RectangleInterseption.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\09.RectangleInterseption\bin\Debug\netcoreapp2.0\09.RectangleInterseption.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\09.RectangleInterseption\bin\Debug\netcoreapp2.0\09.RectangleInterseption.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\09.RectangleInterseption\bin\Debug\netcoreapp2.0\09.RectangleInterseption.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\09.RectangleInterseption\bin\Debug\netcoreapp2.0\09.RectangleInterseption.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\09.RectangleInterseption\obj\Debug\netcoreapp2.0\09.RectangleInterseption.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\09.RectangleInterseption\obj\Debug\netcoreapp2.0\09.RectangleInterseption.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\09.RectangleInterseption\obj\Debug\netcoreapp2.0\09.RectangleInterseption.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\09.RectangleInterseption\obj\Debug\netcoreapp2.0\09.RectangleInterseption.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\09.RectangleInterseption\obj\Debug\netcoreapp2.0\09.RectangleInterseption.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\09.RectangleInterseption\obj\Debug\netcoreapp2.0\09.RectangleInterseption.pdb

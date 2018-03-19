@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\12.Google\bin\Debug\netcoreapp2.0\12.Google.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\12.Google\bin\Debug\netcoreapp2.0\12.Google.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\12.Google\bin\Debug\netcoreapp2.0\12.Google.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\12.Google\bin\Debug\netcoreapp2.0\12.Google.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\12.Google\bin\Debug\netcoreapp2.0\12.Google.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\12.Google\obj\Debug\netcoreapp2.0\12.Google.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\12.Google\obj\Debug\netcoreapp2.0\12.Google.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\12.Google\obj\Debug\netcoreapp2.0\12.Google.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\12.Google\obj\Debug\netcoreapp2.0\12.Google.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\12.Google\obj\Debug\netcoreapp2.0\12.Google.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\02.DefiningClassesExercise\12.Google\obj\Debug\netcoreapp2.0\12.Google.pdb
